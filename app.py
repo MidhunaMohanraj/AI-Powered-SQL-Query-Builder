@@ -5,7 +5,7 @@ import re
 
 st.set_page_config(
     page_title="AI SQL Query Builder",
-    page_icon="🗄️",
+    page_icon="🗄️",  
     layout="wide"
 )
 
