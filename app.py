@@ -43,7 +43,7 @@ CREATE TABLE customers (
     created_at  TIMESTAMP DEFAULT NOW()
 );
 
-CREATE TABLE products (
+CREATE TABLE products ( 
     id          SERIAL PRIMARY KEY,
     name        VARCHAR(150) NOT NULL,
     category    VARCHAR(80),
