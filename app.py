@@ -85,7 +85,6 @@ if "result" not in st.session_state:
 if "active_tab" not in st.session_state:
     st.session_state.active_tab = "builder"
 
-
 def get_complexity(sql: str) -> str:
     sql_upper = sql.upper()
     score = 0
