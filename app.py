@@ -56,7 +56,6 @@ CREATE TABLE orders (
     created_at    TIMESTAMP DEFAULT NOW(),
     status        VARCHAR(30) DEFAULT 'pending'
 );
-
 CREATE TABLE order_items (
     id          SERIAL PRIMARY KEY,
     order_id    INTEGER REFERENCES orders(id),
