@@ -65,7 +65,6 @@ CREATE TABLE order_items (
     unit_price  NUMERIC(10,2) NOT NULL
 );
 """
-
 SAMPLE_QUESTIONS = [
     "Top 10 customers by total revenue this year",
     "Monthly revenue for the last 6 months",
