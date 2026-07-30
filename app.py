@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🗄️",  
     layout="wide"
 )
-st.markdown("""    
+st.markdown("""   
 <style>           
     .block-container { padding-top: 2rem; }
     .main-title { font-size: 2rem; font-weight: 700; margin-bottom: 0; }
