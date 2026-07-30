@@ -47,7 +47,7 @@ CREATE TABLE products (
     category    VARCHAR(80),
     price       NUMERIC(10,2) NOT NULL,
     stock_qty   INTEGER DEFAULT 0
-);
+); 
 
 CREATE TABLE orders (
     id            SERIAL PRIMARY KEY,
