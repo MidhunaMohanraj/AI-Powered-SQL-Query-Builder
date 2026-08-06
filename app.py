@@ -2,7 +2,7 @@ import streamlit as st
 import anthropic
 import json
 import re  
-st.set_page_config(
+st.set_page_config( 
     page_title="AI SQL Query Builder",
     page_icon="🗄️",  
     layout="wide"
