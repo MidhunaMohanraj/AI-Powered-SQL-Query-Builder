@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 ) 
 st.markdown("""     
-<style>           
+<style>             
     .block-container { padding-top: 2rem; }
     .main-title { font-size: 2rem; font-weight: 700; margin-bottom: 0; }
     .main-sub { color: #888; font-size: 0.95rem; margin-top: 0; }
