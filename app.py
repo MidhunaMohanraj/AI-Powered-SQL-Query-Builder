@@ -20,7 +20,7 @@ st.markdown("""
         border-radius:20px; padding:2px 14px; font-size:0.8rem; font-weight:600; }
     .history-item { background:#f8f9fa; border-radius:8px; padding:0.6rem 0.9rem;
         margin-bottom:0.5rem; font-size:0.82rem; cursor:pointer;
-        border:1px solid #eee; color:#333; }
+        border:1px solid #eee; color:#333; } 
     .history-item:hover { border-color:#aaa; }
     .info-box { background:#f0f7ff; border:1px solid #bbdefb; border-radius:8px;
         padding:0.75rem 1rem; color:#1565c0; font-size:0.88rem; margin-bottom:1rem; }
